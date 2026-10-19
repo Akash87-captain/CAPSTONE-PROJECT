@@ -7,7 +7,7 @@ Tableau Public:** yes
 2. Nov revenue +66.3% on Oct
 3. North fell every month
 ## File index
-|sql/q01.sql...q13.sql, 00_schema_ , _seed.sql, d1_corrected.sql|A|
+|sql/q01.sql...q13.sql, 00_schema_and_seed.sql, d1_corrected.sql|A|
 |data/orders_enriched.csv, orders_clean.csv|B|
 |results/query_results.md|C|
 |docs/spreadsheet_notes.md, dashboard_spec.md, ai_log.md|D|
